@@ -6,3 +6,6 @@ result=result/3;
 result=result-14;
 alert(a);
 alert(result);
+
+
+addBtn.a
